@@ -255,7 +255,7 @@
         <mxCell id="xpqBTD8iy4Abnlejj6zb-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;rounded=0;fontSize=9;fontColor=#333333;fontFamily=Helvetica;" value="&lt;h1&gt;Tertiary Indicators&lt;/h1&gt;" vertex="1">
           <mxGeometry height="30" width="180" x="504" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="Wlq3abNJB8_nQ6Rajm-q-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;fontSize=10;fontStyle=1;fontFamily=Helvetica;" value="Number of Operating Commercial Truccks for Freight transport" vertex="1">
+        <mxCell id="Wlq3abNJB8_nQ6Rajm-q-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;fontSize=10;fontStyle=1;fontFamily=Helvetica;" value="Number of Operating Commercial Trucks for Freight Transport (10,000 vehicles)" vertex="1">
           <mxGeometry height="24" width="290" x="450" y="80" as="geometry" />
         </mxCell>
         <mxCell id="Wlq3abNJB8_nQ6Rajm-q-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;fontSize=10;fontStyle=1;fontFamily=Helvetica;" value="Fiber Optic Cable Line Density(km/10,000 persons)" vertex="1">
