@@ -392,7 +392,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="center" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillcolor=#E1F5FE;strokeColor=#01579B;fontStyle=1;fontSize=16;glass=1;" value="Evaluation&lt;br&gt;System" vertex="1">
+        <mxCell id="center" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillcolor=#E1F5FE;strokeColor=#82b366;fontStyle=1;fontSize=16;glass=1;fillColor=#d5e8d4;" value="Evaluation&lt;br&gt;System of GTFP" vertex="1">
           <mxGeometry height="80" width="120" x="340" y="320" as="geometry" />
         </mxCell>
         <mxCell id="in_title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#0D47A1;fontSize=16;" value="Input Variables" vertex="1">
@@ -419,7 +419,7 @@
         <mxCell id="und_title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=light-dark(#918A8E,#FFE8EB);fontSize=16;" value="Undesired Output" vertex="1">
           <mxGeometry height="30" width="150" x="610" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="und1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=10;fontColor=#333333;fontStyle=1" value="(COD) emissions in industrial wastewater (10,000 tons)" vertex="1">
+        <mxCell id="und1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=10;fontColor=#333333;fontStyle=1" value="(COD) E&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;missions in industrial wastewater (10,000 tons)&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="630" y="190" as="geometry" />
         </mxCell>
         <mxCell id="und2" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=10;fontColor=#333333;fontStyle=1" value="SO2&lt;br&gt;Emissions&amp;nbsp;in industrial waste gas (10,000 tons)" vertex="1">
