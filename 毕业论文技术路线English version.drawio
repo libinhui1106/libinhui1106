@@ -398,22 +398,22 @@
         <mxCell id="in_title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#0D47A1;fontSize=14;" value="Input Variables" vertex="1">
           <mxGeometry height="30" width="120" x="120" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="in1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E3F2FD;strokeColor=#2196F3;fontSize=11;" value="Labor: Number of&lt;br&gt;Employees" vertex="1">
+        <mxCell id="in1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E3F2FD;strokeColor=#2196F3;fontSize=11;" value="Total number of employees in mining, manufacturing, and production &amp;amp; supply of electricity, gas &amp;amp; water by province (10,000 persons)" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="in2" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E3F2FD;strokeColor=#2196F3;fontSize=11;" value="Capital: Total Fixed&lt;br&gt;Assets" vertex="1">
+        <mxCell id="in2" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E3F2FD;strokeColor=#2196F3;fontSize=11;" value="Total fixed assets of industrial enterprises above designated size (100 million yuan)" vertex="1">
           <mxGeometry height="60" width="120" x="20" y="280" as="geometry" />
         </mxCell>
-        <mxCell id="in3" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E3F2FD;strokeColor=#2196F3;fontSize=11;" value="Energy: Electricity&lt;br&gt;Consumption" vertex="1">
+        <mxCell id="in3" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E3F2FD;strokeColor=#2196F3;fontSize=11;" value="Total electricity consumption (kWh)" vertex="1">
           <mxGeometry height="60" width="120" x="50" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="in4" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E3F2FD;strokeColor=#2196F3;fontSize=11;" value="Pollution Control&lt;br&gt;Investment" vertex="1">
+        <mxCell id="in4" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E3F2FD;strokeColor=#2196F3;fontSize=11;" value="Completed investment in industrial pollution control (10,000 yuan)" vertex="1">
           <mxGeometry height="60" width="120" x="130" y="430" as="geometry" />
         </mxCell>
         <mxCell id="out_title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#E65100;fontSize=14;" value="Desired Output" vertex="1">
           <mxGeometry height="30" width="120" x="340" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="out1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF3E0;strokeColor=#FF9800;fontSize=11;" value="Industrial Added&lt;br&gt;Value" vertex="1">
+        <mxCell id="out1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF3E0;strokeColor=#FF9800;fontSize=11;" value="Industrial added value (100 million yuan)" vertex="1">
           <mxGeometry height="60" width="120" x="340" y="150" as="geometry" />
         </mxCell>
         <mxCell id="und_title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=light-dark(#B9B1B5,#FFE8EB);fontSize=14;" value="Undesired Output" vertex="1">
