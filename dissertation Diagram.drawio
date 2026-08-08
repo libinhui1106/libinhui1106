@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="ZoFJsL0x3UpqvIocH_yM">
-    <mxGraphModel dx="2208" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1729" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Q_IF4cNW9y0Xk9PZnVpT-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Congruence" vertex="1">
-          <mxGeometry height="60" width="120" x="70" y="200" as="geometry" />
+        <mxCell id="Q_IF4cNW9y0Xk9PZnVpT-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=0;" value="Dimension A&lt;div&gt;Aesthetic Style Congruence&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="50" y="30" as="geometry" />
         </mxCell>
         <mxCell id="Q_IF4cNW9y0Xk9PZnVpT-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Authenticity" vertex="1">
           <mxGeometry height="60" width="120" x="280" y="200" as="geometry" />
