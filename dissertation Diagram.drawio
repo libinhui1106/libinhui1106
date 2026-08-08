@@ -1,23 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="ZoFJsL0x3UpqvIocH_yM">
-    <mxGraphModel dx="1729" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1206" dy="231" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Q_IF4cNW9y0Xk9PZnVpT-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=0;dashed=1;fillColor=#FFFFFF;strokeColor=#6c8ebf;fontColor=light-dark(#6b8dbf, #319eff);fontStyle=1" value="&lt;font face=&quot;Times New Roman&quot;&gt;Dimension A&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Aesthetic Style Congruence&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="Q_IF4cNW9y0Xk9PZnVpT-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontColor=light-dark(#6b8dbf, #ededed);" value="&lt;font face=&quot;Times New Roman&quot;&gt;Dimension A&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Aesthetic Style Congruence&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="170" x="55" y="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Q_IF4cNW9y0Xk9PZnVpT-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Authenticity" vertex="1">
-          <mxGeometry height="60" width="120" x="280" y="200" as="geometry" />
-        </mxCell>
-        <mxCell id="Q_IF4cNW9y0Xk9PZnVpT-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Credibility" vertex="1">
-          <mxGeometry height="60" width="120" x="425" y="200" as="geometry" />
-        </mxCell>
-        <mxCell id="Q_IF4cNW9y0Xk9PZnVpT-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Emotional Engagement" vertex="1">
-          <mxGeometry height="60" width="120" x="560" y="200" as="geometry" />
-        </mxCell>
-        <mxCell id="Q_IF4cNW9y0Xk9PZnVpT-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Purchase Intention" vertex="1">
-          <mxGeometry height="60" width="120" x="710" y="200" as="geometry" />
         </mxCell>
         <mxCell id="Q_IF4cNW9y0Xk9PZnVpT-6" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="100" relative="1" width="100" as="geometry">
@@ -25,29 +13,47 @@
             <mxPoint x="20" y="20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q_IF4cNW9y0Xk9PZnVpT-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sub-dimension" vertex="1">
-          <mxGeometry height="30" width="90" x="-20" as="geometry" />
+        <mxCell id="Q_IF4cNW9y0Xk9PZnVpT-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontStyle=1;fontSize=18;" value="Sub-dimension" vertex="1">
+          <mxGeometry height="30" width="120" x="-35" as="geometry" />
         </mxCell>
-        <mxCell id="Q_IF4cNW9y0Xk9PZnVpT-8" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;" value="Attributes" vertex="1">
+        <mxCell id="Q_IF4cNW9y0Xk9PZnVpT-8" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=18;fontStyle=1" value="Attributes" vertex="1">
           <mxGeometry height="30" width="90" x="-20" y="420" as="geometry" />
         </mxCell>
-        <mxCell id="Q_IF4cNW9y0Xk9PZnVpT-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="perceived aesthetic" vertex="1">
-          <mxGeometry height="50" width="60" x="35" y="270" as="geometry" />
-        </mxCell>
-        <mxCell id="Q_IF4cNW9y0Xk9PZnVpT-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="actual self-congruence" vertex="1">
-          <mxGeometry height="50" width="60" x="110" y="270" as="geometry" />
-        </mxCell>
-        <mxCell id="rSUiV_9sqMZiHn5JPzNR-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=0;dashed=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=#b85450;fontStyle=1;fontColor=light-dark(#b7544f, #ededed);" value="&lt;font face=&quot;Times New Roman&quot;&gt;Dimension D&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Emotional Engagement&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="rSUiV_9sqMZiHn5JPzNR-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=0;dashed=1;fillColor=light-dark(#f8d8d8, #FFFFFF);strokeColor=#b85450;fontStyle=1;fontColor=light-dark(#b7544f, #ededed);" value="&lt;font face=&quot;Times New Roman&quot;&gt;Dimension D&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Emotional Engagement&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="170" x="630" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="rSUiV_9sqMZiHn5JPzNR-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=0;dashed=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=#9673a6;fontStyle=1;fontColor=light-dark(#9773a5, #ededed);" value="&lt;font face=&quot;Times New Roman&quot;&gt;Dimension B&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Influencer Autheticity&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="170" x="250" y="40" as="geometry" />
+        <mxCell id="rSUiV_9sqMZiHn5JPzNR-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=0;dashed=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontColor=light-dark(#9773a5, #ededed);" value="&lt;font face=&quot;Times New Roman&quot;&gt;Dimension B&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Influencer Autheticity&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="250" y="39" as="geometry" />
         </mxCell>
-        <mxCell id="rSUiV_9sqMZiHn5JPzNR-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=0;dashed=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=#82b366;fontStyle=1;fontColor=light-dark(#81b367, #ededed);labelBackgroundColor=none;labelBorderColor=none;" value="&lt;font face=&quot;Times New Roman&quot;&gt;Dimension C&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Influencer Credibility&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="rSUiV_9sqMZiHn5JPzNR-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=0;dashed=1;fillColor=light-dark(#E2EFDB,#FFFFFF);strokeColor=#82b366;fontStyle=1;fontColor=light-dark(#81b367, #ededed);labelBackgroundColor=none;labelBorderColor=none;" value="&lt;font face=&quot;Times New Roman&quot;&gt;Dimension C&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Influencer Credibility&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="170" x="440" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="rSUiV_9sqMZiHn5JPzNR-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=0;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontColor=default;" value="&lt;font face=&quot;Times New Roman&quot;&gt;Dimension E&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Purchase Intention&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="rSUiV_9sqMZiHn5JPzNR-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=0;dashed=1;fillColor=light-dark(#f9f0e6, #36210a);strokeColor=#d79b00;fontStyle=1;fontColor=#FFB570;" value="&lt;font face=&quot;Times New Roman&quot;&gt;Dimension E&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Purchase Intention&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="170" x="820" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rSUiV_9sqMZiHn5JPzNR-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;fontColor=light-dark(#6a8cbf, #ededed);strokeColor=light-dark(#9773a5, #ededed);" value="&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(152, 115, 164), rgb(237, 237, 237));&quot;&gt;AUT1&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(152, 115, 164), rgb(237, 237, 237));&quot;&gt;Sincerity&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(26, 26, 26); font-weight: normal;&quot;&gt;(natural expression,ordinary sharing)&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="255" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="rSUiV_9sqMZiHn5JPzNR-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;strokeColor=#7EA6E0;" value="&lt;div&gt;&lt;div style=&quot;color: rgb(106, 140, 191);&quot;&gt;&lt;font style=&quot;color: rgb(126, 166, 224);&quot;&gt;APC2&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;span style=&quot;color: light-dark(rgb(126, 166, 224), rgb(67, 102, 151)); background-color: transparent;&quot;&gt;Ideal Self-Congruence&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;(ideal self-image and selective identification)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="65" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="rSUiV_9sqMZiHn5JPzNR-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;glass=0;fillColor=none;strokeColor=#7EA6E0;" value="" vertex="1">
+          <mxGeometry height="300" width="180" x="-190" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rSUiV_9sqMZiHn5JPzNR-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;fontColor=light-dark(#6a8cbf, #ededed);strokeColor=light-dark(#9773a5, #ededed);" value="&lt;div&gt;&lt;span style=&quot;color: rgb(152, 115, 164); background-color: transparent;&quot;&gt;EXP1&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#9873a4&quot;&gt;Knowledge&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(26, 26, 26); font-weight: normal;&quot;&gt;(practical beauty experience,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(26, 26, 26), rgb(215, 215, 215)); font-weight: normal; background-color: transparent;&quot;&gt;&amp;nbsp;limited professional knowledge)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="440" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="rSUiV_9sqMZiHn5JPzNR-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;fontColor=light-dark(#6a8cbf, #ededed);strokeColor=light-dark(#9773a5, #ededed);" value="&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(152, 115, 164), rgb(237, 237, 237));&quot;&gt;AUT3&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#9873a4&quot;&gt;Uniqueness/Imperfection&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(26, 26, 26); font-weight: normal;&quot;&gt;(distinct identity, imperfection showing)&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="255" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="rSUiV_9sqMZiHn5JPzNR-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;fontColor=light-dark(#6a8cbf, #ededed);strokeColor=light-dark(#9773a5, #ededed);" value="&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(152, 115, 164), rgb(237, 237, 237));&quot;&gt;AUT2&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#9873a4&quot;&gt;Consistency&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(26, 26, 26); font-weight: normal;&quot;&gt;(continuity in personality and content style)&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="255" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="rSUiV_9sqMZiHn5JPzNR-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;fontColor=light-dark(#6a8cbf, #ededed);strokeColor=light-dark(#7EA6E0,#EDEDED);" value="&lt;div&gt;&lt;font style=&quot;color: rgb(126, 166, 224);&quot;&gt;APC1&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(126, 166, 224);&quot;&gt;Perceived Aesthetic&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(26, 26, 26); font-weight: normal;&quot;&gt;(&lt;/font&gt;&lt;span style=&quot;font-weight: normal; color: rgb(0, 0, 0); background-color: transparent;&quot;&gt;perceived similarity in makeup and fashion)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="65" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="rSUiV_9sqMZiHn5JPzNR-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;fontColor=light-dark(#6a8cbf, #ededed);strokeColor=light-dark(#7EA6E0,#EDEDED);" value="&lt;div&gt;&lt;font style=&quot;color: rgb(126, 166, 224);&quot;&gt;APC2&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(126, 166, 224);&quot;&gt;Ideal Self-Congruence&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;background-color: transparent; color: rgb(26, 26, 26); font-weight: normal;&quot;&gt;(life aspiration and personality similarity&lt;/font&gt;&lt;span style=&quot;background-color: transparent; font-weight: normal; color: rgb(0, 0, 0);&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="70" y="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
