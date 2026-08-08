@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="ZoFJsL0x3UpqvIocH_yM">
-    <mxGraphModel dx="1636" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1917" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,7 +38,7 @@
           <mxGeometry height="80" width="160" x="60" y="310" as="geometry" />
         </mxCell>
         <mxCell id="rSUiV_9sqMZiHn5JPzNR-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;glass=0;fillColor=none;strokeColor=#7EA6E0;" value="" vertex="1">
-          <mxGeometry height="300" width="180" x="-190" y="90" as="geometry" />
+          <mxGeometry height="300" width="180" x="55" y="111" as="geometry" />
         </mxCell>
         <mxCell id="rSUiV_9sqMZiHn5JPzNR-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;strokeColor=#82b366;fillColor=none;gradientColor=#97d077;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: rgb(151, 208, 119);&quot;&gt;CRE1&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#97d077&quot;&gt;Expertise&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(26, 26, 26); font-weight: normal;&quot;&gt;(practical beauty experience,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(26, 26, 26), rgb(215, 215, 215)); font-weight: normal; background-color: transparent;&quot;&gt;&amp;nbsp;limited professional knowledge)&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="160" x="440" y="130" as="geometry" />
@@ -73,17 +73,32 @@
         <mxCell id="rSUiV_9sqMZiHn5JPzNR-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;strokeColor=#b85450;fillColor=none;" value="&lt;div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(182, 84, 78), rgb(234, 107, 102));&quot;&gt;ENG3&lt;/font&gt;&lt;/div&gt;&lt;font color=&quot;#b6544e&quot;&gt;Positive Emotion&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;(emotional enjoyment, inspiration and motivation)&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="160" x="630" y="310" as="geometry" />
         </mxCell>
-        <mxCell id="rSUiV_9sqMZiHn5JPzNR-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;strokeColor=#d79b00;fillColor=none;" value="&lt;div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 181, 112);&quot;&gt;PI1&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;color: rgb(255, 181, 112);&quot;&gt;Parasocial Interaction&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;(conversational interaction, psychological distance)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="rSUiV_9sqMZiHn5JPzNR-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;strokeColor=#d79b00;fillColor=none;" value="&lt;div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 181, 112);&quot;&gt;PI1&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;color: rgb(255, 181, 112);&quot;&gt;Purchasing&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;(conditional purchase intention,information search before purchase)&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="160" x="825" y="130" as="geometry" />
         </mxCell>
         <mxCell id="rSUiV_9sqMZiHn5JPzNR-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;strokeColor=#b85450;fillColor=none;" value="&lt;div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(182, 84, 78), rgb(234, 107, 102));&quot;&gt;ENG4&lt;/font&gt;&lt;/div&gt;&lt;font color=&quot;#b6544e&quot;&gt;Positive Emotion&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;(algorithm-driven viewing, need-based viewing)&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="160" x="635" y="395" as="geometry" />
         </mxCell>
-        <mxCell id="rSUiV_9sqMZiHn5JPzNR-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;strokeColor=#d79b00;fillColor=none;" value="&lt;div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 181, 112);&quot;&gt;PI1&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;color: rgb(255, 181, 112);&quot;&gt;Parasocial Interaction&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;(conversational interaction, psychological distance)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="rSUiV_9sqMZiHn5JPzNR-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;strokeColor=#d79b00;fillColor=none;" value="&lt;div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 181, 112);&quot;&gt;PI2&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffb570&quot;&gt;Recommendation&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;(experience-base recommendation and selective recommendation)&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="160" x="825" y="220" as="geometry" />
         </mxCell>
-        <mxCell id="rSUiV_9sqMZiHn5JPzNR-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;strokeColor=#d79b00;fillColor=none;" value="&lt;div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 181, 112);&quot;&gt;PI1&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;color: rgb(255, 181, 112);&quot;&gt;Parasocial Interaction&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;(conversational interaction, psychological distance)&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="160" x="860" y="380" as="geometry" />
+        <mxCell id="rSUiV_9sqMZiHn5JPzNR-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;strokeColor=#d79b00;fillColor=none;" value="&lt;div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 181, 112);&quot;&gt;PI3&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;color: rgb(255, 181, 112);&quot;&gt;Purchase Priority&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;(style-based prioritisation and personal suitability)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="825" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="rSUiV_9sqMZiHn5JPzNR-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;strokeColor=#d79b00;fillColor=none;" value="&lt;div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 181, 112);&quot;&gt;PI4&lt;/font&gt;&lt;/div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font color=&quot;#ffb570&quot;&gt;Imitation&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(style-inspiration and adapted imitation)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="825" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="rSUiV_9sqMZiHn5JPzNR-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;glass=0;fillColor=none;strokeColor=#9673a6;" value="" vertex="1">
+          <mxGeometry height="300" width="180" x="245" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="rSUiV_9sqMZiHn5JPzNR-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;glass=0;fillColor=none;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="383" width="180" x="431" y="112" as="geometry" />
+        </mxCell>
+        <mxCell id="rSUiV_9sqMZiHn5JPzNR-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;glass=0;fillColor=none;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="383" width="180" x="620" y="113.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rSUiV_9sqMZiHn5JPzNR-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;glass=0;fillColor=none;strokeColor=#d79b00;" value="" vertex="1">
+          <mxGeometry height="383" width="180" x="815" y="111" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
