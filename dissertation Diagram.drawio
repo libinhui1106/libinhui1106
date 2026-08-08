@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Q_IF4cNW9y0Xk9PZnVpT-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=0;" value="Dimension A&lt;div&gt;Aesthetic Style Congruence&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="170" x="50" y="30" as="geometry" />
+        <mxCell id="Q_IF4cNW9y0Xk9PZnVpT-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=0;dashed=1;fillColor=#FFFFFF;strokeColor=#6c8ebf;fontColor=light-dark(#6b8dbf, #319eff);fontStyle=1" value="&lt;font face=&quot;Times New Roman&quot;&gt;Dimension A&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Aesthetic Style Congruence&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="55" y="40" as="geometry" />
         </mxCell>
         <mxCell id="Q_IF4cNW9y0Xk9PZnVpT-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Authenticity" vertex="1">
           <mxGeometry height="60" width="120" x="280" y="200" as="geometry" />
@@ -36,6 +36,18 @@
         </mxCell>
         <mxCell id="Q_IF4cNW9y0Xk9PZnVpT-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="actual self-congruence" vertex="1">
           <mxGeometry height="50" width="60" x="110" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="rSUiV_9sqMZiHn5JPzNR-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=0;dashed=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=#b85450;fontStyle=1;fontColor=light-dark(#b7544f, #ededed);" value="&lt;font face=&quot;Times New Roman&quot;&gt;Dimension D&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Emotional Engagement&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="630" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rSUiV_9sqMZiHn5JPzNR-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=0;dashed=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=#9673a6;fontStyle=1;fontColor=light-dark(#9773a5, #ededed);" value="&lt;font face=&quot;Times New Roman&quot;&gt;Dimension B&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Influencer Autheticity&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="250" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rSUiV_9sqMZiHn5JPzNR-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=0;dashed=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=#82b366;fontStyle=1;fontColor=light-dark(#81b367, #ededed);labelBackgroundColor=none;labelBorderColor=none;" value="&lt;font face=&quot;Times New Roman&quot;&gt;Dimension C&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Influencer Credibility&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="440" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rSUiV_9sqMZiHn5JPzNR-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=0;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontColor=default;" value="&lt;font face=&quot;Times New Roman&quot;&gt;Dimension E&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Purchase Intention&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="820" y="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
