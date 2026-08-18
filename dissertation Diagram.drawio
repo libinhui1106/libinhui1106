@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="ZoFJsL0x3UpqvIocH_yM">
-    <mxGraphModel dx="1759" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,7 +76,7 @@
         <mxCell id="rSUiV_9sqMZiHn5JPzNR-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;strokeColor=#d79b00;fillColor=none;" value="&lt;div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 181, 112);&quot;&gt;PI1&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;color: rgb(255, 181, 112);&quot;&gt;Purchasing&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;(conditional purchase intention,information search before purchase)&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="160" x="825" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="rSUiV_9sqMZiHn5JPzNR-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;strokeColor=#b85450;fillColor=none;" value="&lt;div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(182, 84, 78), rgb(234, 107, 102));&quot;&gt;ENG4&lt;/font&gt;&lt;/div&gt;&lt;font color=&quot;#b6544e&quot;&gt;Immerse Feeling&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;(algorithm-driven viewing, need-based viewing)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="rSUiV_9sqMZiHn5JPzNR-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;strokeColor=#b85450;fillColor=#f8cecc;" value="&lt;div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(182, 84, 78), rgb(234, 107, 102));&quot;&gt;ENG4&lt;/font&gt;&lt;/div&gt;&lt;font color=&quot;#b6544e&quot;&gt;Immerse Feeling&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;(algorithm-driven viewing, need-based viewing)&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="160" x="635" y="395" as="geometry" />
         </mxCell>
         <mxCell id="rSUiV_9sqMZiHn5JPzNR-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;strokeColor=#d79b00;fillColor=none;" value="&lt;div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 181, 112);&quot;&gt;PI2&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffb570&quot;&gt;Recommendation&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;(experience-base recommendation and selective recommendation)&lt;/span&gt;&lt;/div&gt;" vertex="1">
